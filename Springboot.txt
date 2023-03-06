@@ -1,0 +1,24 @@
+Eclips:
+SE
+EE
+
+Project building tool : 1.Maven 2.Gradel
+Maven : Project building tool it will provide sturture to projects
+ex........Web projects, Apachi sft projects......
+Architpye id -> company name
+Group id -> Project name
+
+
+sr/main/java  s c
+src/main/resource  
+
+src/test  t c
+src/resorce esstinl
+
+src external source to add at rt & coonect extrl resorce
+target 
+
+
+
+Local Repo     <------   Maven repo(remote)  = pom.xml
+.m2 file(local repo) = where maven repo store in local repo
